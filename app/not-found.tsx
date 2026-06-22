@@ -10,7 +10,7 @@ export default function NotFound() {
       </span>
       <h1 className="heading-display mt-4 text-4xl sm:text-5xl">Off bearing.</h1>
       <p className="mt-4 max-w-sm text-ink-600">
-        The page you're looking for doesn't exist, or it's moved. Let's get you back on course.
+        The page you&apos;re looking for doesn&apos;t exist, or it&apos;s moved. Let&apos;s get you back on course.
       </p>
       <Link href="/" className="btn-primary mt-8">
         Return home

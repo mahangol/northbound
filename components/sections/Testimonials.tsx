@@ -22,7 +22,7 @@ export function Testimonials() {
               <figure className="card-surface flex h-full flex-col justify-between p-8">
                 <blockquote>
                   <p className="font-serif text-xl italic leading-snug text-ink sm:text-[1.375rem]">
-                    "{t.quote}"
+                    &quot;{t.quote}&quot;
                   </p>
                 </blockquote>
                 <figcaption className="mt-7 flex items-center gap-3 border-t border-ink/[0.06] pt-5">
